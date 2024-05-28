@@ -1,0 +1,2 @@
+# PREDICTING-THE-IMPACT-OF-SELECTED-BANK-STOCKS-ON-NIFTY-USING-DEEP-LEARNING
+Stock market prediction is a typical task to forecast the upcoming stock values. It is very difficult to forecast because of unbalanced nature of stocks. So investors are not able to find out the happenings happened in bank nifty to invest through that, so my project undergone to overcome these problems and give best solution to investors
